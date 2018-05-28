@@ -28,15 +28,12 @@
 [[projects]]
   branch = "master"
   name = "github.com/vgmdj/utils"
-  packages = [
-    "area",
-    "chars"
-  ]
-  revision = "e1aef3aabdfb708bbd39f07a2099d1f60213c47a"
+  packages = ["chars"]
+  revision = "4925038402afa1b0b53af099f750d609f563d190"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "873ef1a20fcab45f4a7e389de6e9b3aaaf7f4c1384ecb451ec044953ed709a8c"
+  inputs-digest = "b07849b1a0be698aeeb06b0070f2918db65efc50ec30a43b08e32b40a59faae2"
   solver-name = "gps-cdcl"
   solver-version = 1

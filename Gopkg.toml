@@ -24,6 +24,7 @@
 #   go-tests = true
 #   unused-packages = true
 
+ignored = ["github.com/vgmdj/utils/area"]
 
 [[constraint]]
   name = "github.com/stretchr/testify"
