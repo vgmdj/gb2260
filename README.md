@@ -1,6 +1,6 @@
 # gb2260
 
-# source list
+## source list
 - 201802	http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/201804121005.html	
 - 201712	http://www.mca.gov.cn/article/sj/tjbz/a/2018/201803131439.html	
 - 201612	http://www.mca.gov.cn/article/sj/tjbz/a/2016/201612/201705311652.html	
@@ -41,20 +41,21 @@
 - 198112	http://www.mca.gov.cn/article/sj/tjbz/a/201713/201708041004.html	
 - 198012	http://www.mca.gov.cn/article/sj/tjbz/a/201713/201708040959.html
 
-# the src file dir
-- data
+## the src file dir
+- data/
 
-# the go file dir
-- gbdata
+## the go file dir
+- gbdata/
 
-# customize
-you can modify the generate.go to create your own format
+## customize
+you can modify the __generate.go__ to create your own format
 
 # tsv file generate script
 https://github.com/cn/GB2260
+you can midify the sources.tsv and use `make` to generate the src data
 
 # usage
-if you use golang as your language, you can use https://github.com/vgmdj/utils directly
+if you use golang as your language, you can use https://github.com/vgmdj/utils as your parsing package directly
 
 ```
 package main
