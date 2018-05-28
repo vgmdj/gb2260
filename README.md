@@ -1,5 +1,8 @@
 # gb2260
 
+## latest revision
+- 2018.02
+
 ## source list
 - 201802	http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/201804121005.html	
 - 201712	http://www.mca.gov.cn/article/sj/tjbz/a/2018/201803131439.html	
