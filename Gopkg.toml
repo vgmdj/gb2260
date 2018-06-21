@@ -31,7 +31,7 @@ ignored = ["github.com/vgmdj/utils/area"]
   version = "1.2.1"
 
 [[constraint]]
-  branch = "master"
+  branch = "revision-201802"
   name = "github.com/vgmdj/utils"
 
 [prune]
